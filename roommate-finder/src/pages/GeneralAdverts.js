@@ -1,5 +1,5 @@
 import React from 'react'
-import GeneralAdvertsComponent from '../components/GeneralAdvertsComponent'
+import GeneralAdvertsComponent from '../components/GeneralAdvertsComponents'
 
 const GeneralAdverts = () => {
   return (
